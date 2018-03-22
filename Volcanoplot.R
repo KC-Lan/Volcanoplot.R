@@ -3,7 +3,7 @@
 
 library(ggplot2)
 
-input_file=read.csv("C:/Users/file location.csv")
+input_file=read.csv("C:/Users/file location/filename.csv")
 cutoff_log10v=1
 cutoff_log2fc=0.585
 neg_cutoff_log2fc=-cutoff_log2fc
