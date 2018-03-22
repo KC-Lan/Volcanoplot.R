@@ -3,7 +3,7 @@
 
 library(ggplot2)
 
-input_file=read.csv("C:/Users/RoxLan/Desktop/miRNA-seq分析教學/Result_miRNAseq analysis/PC3 demo project/miRNAseq_full_exprs(PC3).csv")
+input_file=read.csv("C:/Users/file location.csv")
 cutoff_log10v=1
 cutoff_log2fc=0.585
 neg_cutoff_log2fc=-cutoff_log2fc
