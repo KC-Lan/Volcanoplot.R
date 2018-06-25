@@ -1,4 +1,4 @@
-#R_火山圖(雙變數上色,輸出PNG & PDF)
+#R_火山圖(雙變數上色,輸出 PNG & PDF)
 
 
 library(ggplot2)
